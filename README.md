@@ -1,14 +1,15 @@
 ## Data Scientist
 
 ### Education
-**Columbia University, New York**
+Columbia University, New York
+
 *M.S Applied Analytics*
-**Birla Institute of Tech & Science, Pilani**
+
+Birla Institute of Tech & Science, Pilani
+
 *B.E Electrical and Electronics*
 
 ### Experience
-**Associate, Fraud Analytics**
-*JPMorgan Chase*
+Associate, Fraud Analytics @ JPMorgan Chase
 
-**Analyst, Consumer Data Science**
-*JPMorgan Chase*
+Analyst, Consumer Data Science @ JPMorgan Chase
