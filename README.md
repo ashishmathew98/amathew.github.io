@@ -10,6 +10,8 @@
 
 ### Experience
 **Fraud Analytics @ JPMorgan Chase (_Sep 2022 - Jun 2024_)**\
-Developed predicted models and business strategies to mitigate fraud on Chase credit cards. Created reports to teack losses and identify emerging fraud trends.
+- Developed predicted models and business strategies to mitigate fraud on Chase credit cards. 
+- Created reports to track losses and identify emerging fraud trends.
+
 **Consumer Data Science @ JPMorgan Chase (_Jun 2021 - Aug 2022_)**
-Developed models and features to increase credit application approval rates in the new-to-credit customer segment.
+- Developed models and features to increase credit application approval rates in the new-to-credit customer segment.
