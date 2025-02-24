@@ -16,3 +16,9 @@ Fraud Analytics @ JPMorgan Chase (_Sep 2022 - Jun 2024_)
 
 Consumer Data Science @ JPMorgan Chase (_Jun 2021 - Aug 2022_)
 - Developed models and features to increase credit application approval rates in the new-to-credit customer segment.
+
+### Projects
+#### Project 1: Visualize Airline Arrival Performance
+**Objective:** Identify carriers and regions with poor service and drivers behind delays.
+
+![alt text](./assets/images/us_hex_map.png)
