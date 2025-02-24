@@ -1,14 +1,15 @@
-### Data Scientist
+## Data Scientist
 
-**Skills**
+### Skills
 - Programming: *Python (pandas, numpy, scikit-learn, matplotlib, seaborn), R (tidyverse, tidymodels, ggplot), SAS, SQL*
 - Tools: *Tableau, Microsoft Office, SAS Viya*
 
-**Education**
+### Education
 - M.S. Applied Analytics @ Columbia University, New York (_Dec 2025_)
 - B.E. Electrical @ Birla Institute of Tech. & Science, Pilani (_May 2021_)
 
-**Experience**
+### Experience
+
 Fraud Analytics @ JPMorgan Chase (_Sep 2022 - Jun 2024_)
 - Developed predicted models and business strategies to mitigate fraud on Chase credit cards. 
 - Created reports to track losses and identify emerging fraud trends.
