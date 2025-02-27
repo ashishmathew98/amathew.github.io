@@ -22,3 +22,8 @@ Consumer Data Science @ JPMorgan Chase (_Jun 2021 - Aug 2022_)
 **Objective:** Identify carriers and regions with poor service and drivers behind delays.
 
 ![alt text](./assets/images/us_hex_map.png)
+
+#### [Predict Advertisement Click-Through Rate](https://ashishmathew98.github.io/PredictingClicks/)
+**Objective:** Build machine-learning models to predict the click-through rate of an advertisment
+
+![alt text](./assets/images/ad_click.png)
