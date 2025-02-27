@@ -18,7 +18,7 @@ Consumer Data Science @ JPMorgan Chase (_Jun 2021 - Aug 2022_)
 - Developed models and features to increase credit application approval rates in the new-to-credit customer segment.
 
 ### Projects
-#### [Visualizing Flight Punctuality](https://ashishmathew98.github.io/AirlineDelays/)
+#### [Analyzing Airline Delays](https://ashishmathew98.github.io/AirlineDelays/)
 **Objective:** Identify carriers and regions with poor service and drivers behind delays.
 
 ![alt text](./assets/images/us_hex_map.png)
