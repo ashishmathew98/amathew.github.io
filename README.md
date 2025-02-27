@@ -1,7 +1,7 @@
 ## Data Scientist
 
 ### Skills
-- Programming: *Python (pandas, numpy, scikit-learn, matplotlib, seaborn), R (tidyverse, tidymodels, ggplot), SAS, SQL*
+- Programming: *Python, R, SAS, SQL*
 - Tools: *Tableau, Microsoft Office, SAS Viya*
 
 ### Education
